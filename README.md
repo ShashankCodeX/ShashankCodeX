@@ -44,8 +44,8 @@ Also exploring Docker, shell scripting, and modern web tooling.
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShashankCodeX&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&bg_color=0A101F">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankCodeX&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShashankCodeX&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&bg_color=0A101F">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankCodeX&show_icons=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankCodeX&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0A101F">
