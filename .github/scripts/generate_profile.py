@@ -311,7 +311,7 @@ def main():
     for theme in PALETTES:
         paths = portrait_paths(
             avatar,
-            remove_flat_background=theme == "dark",
+            remove_flat_background=True,
             fallback_mask=profile.get("avatar_mask_polygon"),
         )
         output = ROOT / f"profile-{theme}.svg"
