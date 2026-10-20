@@ -174,6 +174,12 @@ def build(projects, theme_name):
 </svg>"""
 
 
+def validate_projects(projects):
+    if not isinstance(projects, list) or len(projects) != 2:
+        raise ValueError("The featured-project panel must contain exactly two projects")
+    return projects
+
+
 def main():
     source = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "merged-projects.json"
     destination = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "out"
@@ -182,8 +188,7 @@ def main():
     if not destination.is_absolute():
         destination = ROOT / destination
     projects = json.loads(source.read_text(encoding="utf-8"))
-    if not isinstance(projects, list) or len(projects) != 2:
-        raise ValueError("The featured-project panel must contain exactly two projects")
+    validate_projects(projects)
     destination.mkdir(parents=True, exist_ok=True)
     for theme in THEMES:
         output = destination / f"projects-{theme}.svg"
