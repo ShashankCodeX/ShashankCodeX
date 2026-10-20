@@ -2,9 +2,16 @@
   {
     "name": "SSB Portfolio",
     "repo": "ShashankCodeX/ssb-portfolio",
-    "homepage": "https://shashank-ssb.netlify.app",
+    "homepage": "https://shashank-ssb.netlify.app/",
     "description": "A cinematic, streaming-inspired software engineering portfolio.",
     "tags": ["React", "TypeScript", "Portfolio"]
+  },
+  {
+    "name": "Anime Portfolio",
+    "repo": "ShashankCodeX/Anime-Portfolio",
+    "homepage": "https://shashank-anime-portfolio.netlify.app",
+    "description": "Anime-inspired developer portfolio.",
+    "tags": ["TypeScript", "Portfolio", "Anime"]
   },
   {
     "name": "Wolf Journal",
@@ -12,5 +19,23 @@
     "homepage": "https://wolf-journal.netlify.app",
     "description": "A private, account-based trading journal for forex and crypto.",
     "tags": ["JavaScript", "Supabase", "Finance"]
+  },
+  {
+    "name": "ULTRON AI Agent",
+    "repo": "ShashankCodeX/ULTRON-AGI",
+    "description": "ULTRON - AI AGENT",
+    "tags": ["Python", "AI", "Agent"]
+  },
+  {
+    "name": "Jarvis AI Agent",
+    "repo": "ShashankCodeX/Jarvis-Mark-L",
+    "description": "Jarvis - AI Agent",
+    "tags": ["Python", "AI", "Agent"]
+  },
+  {
+    "name": "Hand Gesture Control",
+    "repo": "ShashankCodeX/Hand-Gesture-Control",
+    "description": "Hand Gesture Control",
+    "tags": ["Python", "Computer Vision", "Gestures"]
   }
 ]

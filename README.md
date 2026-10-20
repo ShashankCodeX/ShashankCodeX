@@ -51,6 +51,22 @@
     <img src="https://img.shields.io/badge/Wolf_Journal-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Wolf Journal repository">
   </a>
   &nbsp;
+  <a href="https://github.com/ShashankCodeX/Anime-Portfolio">
+    <img src="https://img.shields.io/badge/Anime_Portfolio-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Anime Portfolio repository">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ShashankCodeX/ULTRON-AGI">
+    <img src="https://img.shields.io/badge/ULTRON_AI_Agent-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="ULTRON AI Agent repository">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ShashankCodeX/Jarvis-Mark-L">
+    <img src="https://img.shields.io/badge/Jarvis_AI_Agent-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Jarvis AI Agent repository">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ShashankCodeX/Hand-Gesture-Control">
+    <img src="https://img.shields.io/badge/Hand_Gesture_Control-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Hand Gesture Control repository">
+  </a>
+  &nbsp;
   <a href="https://shashank-ssb.netlify.app">
     <img src="https://img.shields.io/badge/SSB_Portfolio_Live-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE" alt="SSB Portfolio live site">
   </a>

@@ -90,21 +90,23 @@ class ProjectPanelTests(unittest.TestCase):
         self.assertIn("React &amp; UI", markup)
         self.assertNotIn("<script>", markup)
 
-    def test_panel_builds_both_projects_for_each_theme(self):
+    def test_panel_builds_all_public_projects_for_each_theme(self):
         projects = json.loads((ROOT / "projects.json").read_text(encoding="utf-8"))
         for theme in ("dark", "light"):
             with self.subTest(theme=theme):
                 svg = generate_projects.build(projects, theme)
                 self.assertIn("SSB Portfolio", svg)
                 self.assertIn("Wolf Journal", svg)
-                self.assertEqual(svg.count("PROJECT."), 2)
+                self.assertIn("Hand Gesture Control", svg)
+                self.assertEqual(svg.count("PROJECT."), len(projects))
                 self.assertIn(generate_projects.THEMES[theme]["background"], svg)
 
-    def test_panel_requires_exactly_two_featured_projects(self):
-        for projects in ([], [{}], [{}, {}, {}], None):
+    def test_panel_requires_at_least_one_public_project(self):
+        for projects in ([], None):
             with self.subTest(projects=projects):
                 with self.assertRaises(ValueError):
                     generate_projects.validate_projects(projects)
+        self.assertEqual(generate_projects.validate_projects([{}]), [{}])
 
 
 if __name__ == "__main__":

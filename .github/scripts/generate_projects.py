@@ -164,19 +164,19 @@ def build(projects, theme_name):
         y = 42 + row * (CARD_HEIGHT + GAP)
         cards.append(card(project, index, x, y, theme))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{height}" viewBox="0 0 {WIDTH} {height}" role="img" aria-labelledby="title desc">
-<title id="title">Shashank's featured projects</title>
-<desc id="desc">Live GitHub details for the SSB Portfolio and Wolf Journal projects.</desc>
+<title id="title">Shashank's public projects</title>
+<desc id="desc">Live GitHub details for Shashank's public software projects.</desc>
 <rect width="{WIDTH}" height="{height}" rx="12" fill="{theme["background"]}"/>
 <text x="8" y="24" fill="{theme["cyan"]}" font-family="monospace" font-size="12" letter-spacing="2">PROJECTS.LIST</text>
-<text x="178" y="24" fill="{theme["dim"]}" font-family="monospace" font-size="10">./projects.sh --featured</text>
+<text x="178" y="24" fill="{theme["dim"]}" font-family="monospace" font-size="10">./projects.sh --public</text>
 <circle cx="1165" cy="20" r="4" fill="{theme["green"]}"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
 <g font-family="SFMono-Regular,Consolas,'Liberation Mono',monospace">{"".join(cards)}</g>
 </svg>"""
 
 
 def validate_projects(projects):
-    if not isinstance(projects, list) or len(projects) != 2:
-        raise ValueError("The featured-project panel must contain exactly two projects")
+    if not isinstance(projects, list) or not projects:
+        raise ValueError("The public-project panel must contain at least one project")
     return projects
 
 

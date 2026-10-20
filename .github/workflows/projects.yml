@@ -1,4 +1,4 @@
-name: Generate featured projects panel
+name: Generate public projects panel
 
 on:
   push:
@@ -29,7 +29,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch featured repository data
+      - name: Fetch public repository data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/fetch_projects.py merged-projects.json
@@ -40,6 +40,6 @@ jobs:
         with:
           target_branch: projects
           build_dir: out
-          commit_message: "Refresh featured projects panel"
+          commit_message: "Refresh public projects panel"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

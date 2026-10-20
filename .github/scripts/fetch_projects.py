@@ -57,7 +57,7 @@ def main():
         destination = ROOT / destination
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(json.dumps(merged, indent=2) + "\n", encoding="utf-8")
-    print(f"Updated GitHub metadata for {len(merged)} featured projects.")
+    print(f"Updated GitHub metadata for {len(merged)} public projects.")
 
 
 if __name__ == "__main__":
