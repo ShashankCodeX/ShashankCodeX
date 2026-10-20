@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SSB Portfolio",
+    "repo": "ShashankCodeX/ssb-portfolio",
+    "homepage": "https://shashank-ssb.netlify.app",
+    "description": "A cinematic, streaming-inspired software engineering portfolio.",
+    "tags": ["React", "TypeScript", "Portfolio"]
+  },
+  {
+    "name": "Wolf Journal",
+    "repo": "ShashankCodeX/wolf-journal",
+    "homepage": "https://wolf-journal.netlify.app",
+    "description": "A private, account-based trading journal for forex and crypto.",
+    "tags": ["JavaScript", "Supabase", "Finance"]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Shashank Singh Bisht",
+  "username": "ShashankCodeX",
+  "role": "Java Full-Stack Software Engineer",
+  "company": "HCLTech",
+  "client": "Clifford Chance",
+  "location": "Lucknow, Uttar Pradesh, India",
+  "email": "player.shashank.2005@gmail.com",
+  "linkedin": "linkedin.com/in/shashank-singh-bisht",
+  "portfolio": "shashank-ssb.netlify.app",
+  "languages": ["Java", "TypeScript", "JavaScript", "SQL"],
+  "frontend": ["React", "HTML", "CSS", "Three.js"],
+  "exploring": ["AI", "Generative AI"],
+  "avatar": "assets/profile-avatar.png",
+  "avatar_mask_polygon": [
+    [55, 43], [72, 41], [84, 47], [92, 57], [96, 69], [92, 76],
+    [93, 88], [100, 93], [102, 109], [94, 114], [91, 119], [96, 132],
+    [91, 142], [96, 154], [92, 165], [82, 168], [75, 159], [69, 156],
+    [64, 169], [55, 168], [50, 159], [52, 149], [48, 142], [49, 132],
+    [41, 127], [41, 116], [38, 108], [42, 98], [47, 95], [46, 83],
+    [43, 73], [46, 62], [51, 52]
+  ]
+}

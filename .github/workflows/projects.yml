@@ -1,0 +1,45 @@
+name: Generate featured projects panel
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "projects.json"
+      - ".github/scripts/fetch_projects.py"
+      - ".github/scripts/generate_projects.py"
+      - ".github/workflows/projects.yml"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch featured repository data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/fetch_projects.py merged-projects.json
+      - name: Generate dark and light project panels
+        run: python .github/scripts/generate_projects.py merged-projects.json out
+      - name: Publish project panels
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: projects
+          build_dir: out
+          commit_message: "Refresh featured projects panel"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
