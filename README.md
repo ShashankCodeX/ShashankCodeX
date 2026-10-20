@@ -75,3 +75,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio">
   </a>
 </div>
+
+<p align="center">
+  <sub>Built and maintained by <a href="https://github.com/ShashankCodeX">Shashank Singh Bisht</a>.</sub>
+</p>
