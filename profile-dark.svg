@@ -60,9 +60,9 @@
   </g>
   <text x="161" y="580" text-anchor="middle" fill="#64748B" font-size="10" letter-spacing="1">FLOYD–STEINBERG</text>
   <g text-anchor="middle" font-size="10" font-weight="700" letter-spacing="1">
-    <text x="345" y="580" fill="#A78BFA" opacity="0">JAVA<animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.3;.34;.63;.67;1" dur="6s" repeatCount="indefinite"/></text>
-    <text x="345" y="580" fill="#22D3EE" opacity="0">REACT<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.3;.34;.63;.67;1" dur="6s" repeatCount="indefinite"/></text>
-    <text x="345" y="580" fill="#10B981" opacity="0">AI / GENAI<animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;.3;.34;.63;.67;1" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="#A78BFA" opacity="0">JAVA<animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="#22D3EE" opacity="0">REACT<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="#10B981" opacity="0">AI / GENAI<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
   </g>
   <text x="490" y="91" fill="#22D3EE" font-size="13" font-weight="700" letter-spacing="1.5">SYSTEM.INFO</text>
   <path d="M600 86H1087" stroke="#334155" opacity=".7"/>
