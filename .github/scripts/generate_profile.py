@@ -234,7 +234,7 @@ def banner(profile, paths, theme):
         ("ToolChain", "VS Code · Git · AI"),
         ("Core.Lang", ", ".join(profile["languages"])),
         ("Core.Frontend", ", ".join(profile["frontend"])),
-        ("Core.Backend", "Java · SQL"),
+        ("Core.Backend", "AEM · Java · .NET"),
         ("Core.Database", "SQL · Supabase"),
         ("Core.Infra", "Git · Netlify"),
         ("Grid.Mail", profile["email"]),
@@ -286,9 +286,9 @@ def banner(profile, paths, theme):
   </g>
   <text x="161" y="580" text-anchor="middle" fill="{colors["dim"]}" font-size="10" letter-spacing="1">FLOYD–STEINBERG</text>
   <g text-anchor="middle" font-size="10" font-weight="700" letter-spacing="1">
-    <text x="345" y="580" fill="{colors["violet"]}" opacity="0">JAVA<animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
-    <text x="345" y="580" fill="{colors["cyan"]}" opacity="0">REACT<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
-    <text x="345" y="580" fill="{colors["emerald"]}" opacity="0">AI / GENAI<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="{colors["violet"]}" opacity="0">AEM<animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="{colors["cyan"]}" opacity="0">JAVA<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
+    <text x="345" y="580" fill="{colors["emerald"]}" opacity="0">.NET<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.34;.67;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></text>
   </g>
   <text x="490" y="91" fill="{colors["cyan"]}" font-size="13" font-weight="700" letter-spacing="1.5">SYSTEM.INFO</text>
   <path d="M600 86H1087" stroke="{colors["leader"]}" opacity=".7"/>

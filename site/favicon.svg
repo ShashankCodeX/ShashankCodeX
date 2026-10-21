@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#080d19"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#22d3ee" stroke-opacity=".7"/>
+  <text x="32" y="38" fill="#f4f7fc" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="-2" text-anchor="middle">SSB</text>
+  <circle cx="51" cy="13" r="3" fill="#a78bfa"/>
+</svg>

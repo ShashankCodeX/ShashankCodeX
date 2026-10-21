@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="240" viewBox="0 0 1180 240" role="img" aria-labelledby="title desc">
+  <title id="title">Shashank's recognition and achievements</title>
+  <desc id="desc">Two national Kung Fu gold medals, All India Rank 235 in the Common Internship Test, a TechGig C sharp Gold Badge, and a perfect score in the NISM and SEBI Investor Awareness Test.</desc>
+  <rect width="1180" height="240" rx="16" fill="#F8FAFC"/>
+  <text x="24" y="30" fill="#0891B2" font-family="monospace" font-size="11" letter-spacing="2">MILESTONES.LOG</text>
+  <text x="1156" y="30" fill="#64748B" font-family="monospace" font-size="10" text-anchor="end">HIGHLIGHTS / PERSONAL RECORD</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(14 48)">
+      <rect width="276" height="168" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+      <path d="M13 1H263" stroke="#0891B2" stroke-width="2"/>
+      <text x="20" y="49" fill="#0891B2" font-size="34" font-weight="700">2×</text>
+      <text x="20" y="81" fill="#0F172A" font-size="18" font-weight="700">National Gold</text>
+      <text x="20" y="107" fill="#475569" font-size="12">Kung Fu · Dragon Academy of</text>
+      <text x="20" y="125" fill="#475569" font-size="12">Martial Arts India</text>
+      <text x="20" y="151" fill="#64748B" font-family="monospace" font-size="10">MARTIAL ARTS</text>
+    </g>
+    <g transform="translate(308 48)">
+      <rect width="276" height="168" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+      <path d="M13 1H263" stroke="#7C3AED" stroke-width="2"/>
+      <text x="20" y="49" fill="#7C3AED" font-size="34" font-weight="700">#235</text>
+      <text x="20" y="81" fill="#0F172A" font-size="18" font-weight="700">All India Rank</text>
+      <text x="20" y="107" fill="#475569" font-size="12">Common Internship Test</text>
+      <text x="20" y="125" fill="#475569" font-size="12">· Internship Studio</text>
+      <text x="20" y="151" fill="#64748B" font-family="monospace" font-size="10">NATIONAL ASSESSMENT</text>
+    </g>
+    <g transform="translate(602 48)">
+      <rect width="276" height="168" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+      <path d="M13 1H263" stroke="#059669" stroke-width="2"/>
+      <text x="20" y="49" fill="#059669" font-size="32" font-weight="700">C#</text>
+      <text x="20" y="81" fill="#0F172A" font-size="18" font-weight="700">Advanced Gold</text>
+      <text x="20" y="107" fill="#475569" font-size="12">TechGig · Advanced Level</text>
+      <text x="20" y="125" fill="#475569" font-size="12">Guru Gold Badge</text>
+      <text x="20" y="151" fill="#64748B" font-family="monospace" font-size="10">PROGRAMMING</text>
+    </g>
+    <g transform="translate(896 48)">
+      <rect width="270" height="168" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+      <path d="M13 1H257" stroke="#D97706" stroke-width="2"/>
+      <text x="20" y="49" fill="#D97706" font-size="34" font-weight="700">100%</text>
+      <text x="20" y="81" fill="#0F172A" font-size="18" font-weight="700">Perfect Score</text>
+      <text x="20" y="107" fill="#475569" font-size="12">NISM / SEBI Investor</text>
+      <text x="20" y="125" fill="#475569" font-size="12">Awareness Test</text>
+      <text x="20" y="151" fill="#64748B" font-family="monospace" font-size="10">FINANCIAL LITERACY</text>
+    </g>
+  </g>
+</svg>
