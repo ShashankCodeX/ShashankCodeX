@@ -129,3 +129,7 @@ See the full profile and experience on my [portfolio](https://shashank-ssb.netli
 </p>
 
 <p align="center"><sub>Built with curiosity and consistency by <a href="https://github.com/ShashankCodeX">Shashank Singh Bisht</a>.</sub></p>
+
+## License
+
+The original source code is licensed under MIT; see [LICENSE](./LICENSE). The license excludes personal profile content and data, CV/resume material, artwork, photos, generated profile graphics, logos, and third-party materials.
