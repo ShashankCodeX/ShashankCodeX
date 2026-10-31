@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="737" viewBox="0 0 1180 737" role="img" aria-labelledby="title desc">
+<title id="title">Shashank's public projects</title>
+<desc id="desc">Live GitHub details for Shashank's public software projects.</desc>
+<rect width="1180" height="737" rx="12" fill="#0A101F"/>
+<text x="8" y="24" fill="#22D3EE" font-family="monospace" font-size="12" letter-spacing="2">PROJECTS.LIST</text>
+<text x="178" y="24" fill="#64748B" font-family="monospace" font-size="10">./projects.sh --public</text>
+<circle cx="1165" cy="20" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<g font-family="SFMono-Regular,Consolas,'Liberation Mono',monospace"><g transform="translate(6 42)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.1  /  ShashankCodeX/ssb-portfolio</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">SP</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">SSB Portfolio</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">A cinematic, streaming-inspired software engineering</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11">portfolio.</text>
+  <rect x="83" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="114.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">React</text><rect x="154" y="112" width="88" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="198.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">TypeScript</text><rect x="251" y="112" width="81" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="291.5" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Portfolio</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 4d ago</text>
+  <rect x="232.0" y="165" width="309.8" height="7" rx="3.5" fill="#A78BFA"/><rect x="541.8" y="165" width="7.5" height="7" rx="3.5" fill="#22D3EE"/><rect x="549.4" y="165" width="2.6" height="7" rx="3.5" fill="#10B981"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">TypeScript 97%</text><circle cx="342" cy="193" r="4" fill="#22D3EE"/><text x="353" y="197" fill="#94A3B8" font-size="10">CSS 2%</text><circle cx="452" cy="193" r="4" fill="#10B981"/><text x="463" y="197" fill="#94A3B8" font-size="10">HTML 1%</text>
+  <text x="554" y="190" text-anchor="end" fill="#22D3EE" font-size="10">LIVE ↗</text>
+</g><g transform="translate(592 42)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.2  /  ShashankCodeX/Anime-Portfolio</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">AP</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">Anime Portfolio</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">Anime-inspired developer portfolio.</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11"></text>
+  <rect x="669" y="112" width="88" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="713.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">TypeScript</text><rect x="766" y="112" width="81" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="806.5" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Portfolio</text><rect x="856" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="887.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Anime</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 4d ago</text>
+  <rect x="232.0" y="165" width="218.6" height="7" rx="3.5" fill="#A78BFA"/><rect x="450.6" y="165" width="101.1" height="7" rx="3.5" fill="#22D3EE"/><rect x="551.6" y="165" width="0.4" height="7" rx="3.5" fill="#10B981"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">TypeScript 68%</text><circle cx="342" cy="193" r="4" fill="#22D3EE"/><text x="353" y="197" fill="#94A3B8" font-size="10">CSS 32%</text><circle cx="452" cy="193" r="4" fill="#10B981"/><text x="463" y="197" fill="#94A3B8" font-size="10">JavaScript 0%</text>
+  <text x="554" y="190" text-anchor="end" fill="#22D3EE" font-size="10">LIVE ↗</text>
+</g><g transform="translate(6 268)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.3  /  ShashankCodeX/wolf-journal</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">WJ</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">Wolf Journal</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">A private, account-based trading journal for forex and</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11">crypto.</text>
+  <rect x="83" y="112" width="88" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="127.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">JavaScript</text><rect x="180" y="112" width="74" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="217.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Supabase</text><rect x="263" y="112" width="67" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="296.5" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Finance</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 4d ago</text>
+  <rect x="232.0" y="165" width="229.3" height="7" rx="3.5" fill="#A78BFA"/><rect x="461.3" y="165" width="90.7" height="7" rx="3.5" fill="#22D3EE"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">JavaScript 72%</text><circle cx="342" cy="193" r="4" fill="#22D3EE"/><text x="353" y="197" fill="#94A3B8" font-size="10">HTML 28%</text>
+  <text x="554" y="190" text-anchor="end" fill="#22D3EE" font-size="10">LIVE ↗</text>
+</g><g transform="translate(592 268)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.4  /  ShashankCodeX/ULTRON-AGI</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">UA</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">ULTRON AI Agent</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">ULTRON - AI AGENT</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11"></text>
+  <rect x="669" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="700.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Python</text><rect x="740" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="771.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">AI</text><rect x="811" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="842.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Agent</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 11d ago</text>
+  <rect x="232.0" y="165" width="277.8" height="7" rx="3.5" fill="#A78BFA"/><rect x="509.8" y="165" width="25.6" height="7" rx="3.5" fill="#22D3EE"/><rect x="535.3" y="165" width="14.2" height="7" rx="3.5" fill="#10B981"/><rect x="549.6" y="165" width="2.4" height="7" rx="3.5" fill="#F472B6"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">Python 87%</text><circle cx="342" cy="193" r="4" fill="#22D3EE"/><text x="353" y="197" fill="#94A3B8" font-size="10">TypeScript 8%</text><circle cx="452" cy="193" r="4" fill="#10B981"/><text x="463" y="197" fill="#94A3B8" font-size="10">HTML 4%</text>
+  
+</g><g transform="translate(6 494)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.5  /  ShashankCodeX/Jarvis-Mark-L</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">JA</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">Jarvis AI Agent</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">Jarvis - AI Agent</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11"></text>
+  <rect x="83" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="114.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Python</text><rect x="154" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="185.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">AI</text><rect x="225" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="256.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Agent</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 4d ago</text>
+  <rect x="232.0" y="165" width="304.3" height="7" rx="3.5" fill="#A78BFA"/><rect x="536.3" y="165" width="15.7" height="7" rx="3.5" fill="#22D3EE"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">Python 95%</text><circle cx="342" cy="193" r="4" fill="#22D3EE"/><text x="353" y="197" fill="#94A3B8" font-size="10">HTML 5%</text>
+  
+</g><g transform="translate(592 494)">
+  <rect width="570" height="210" rx="13" fill="#0C1426" stroke="#334155"/>
+  <path d="M13 1H557" stroke="#22D3EE" stroke-opacity=".6"/>
+  <rect x="1" y="1" width="568" height="32" rx="12" fill="#0B1222"/>
+  <path d="M1 20V32H569V20" fill="#0B1222"/>
+  <path d="M1 33H569" stroke="#334155" stroke-opacity=".55"/>
+  <text x="16" y="21" fill="#94A3B8" font-size="10">PROJECT.6  /  ShashankCodeX/Hand-Gesture-Control</text>
+  <circle cx="552" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="51" width="44" height="44" rx="10" fill="#A78BFA" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+  <text x="40" y="79" text-anchor="middle" fill="#A78BFA" font-size="17" font-weight="700">HG</text>
+  <text x="77" y="62" fill="#F8FAFC" font-size="17" font-weight="700">Hand Gesture Control</text>
+  <text x="77" y="85" fill="#94A3B8" font-size="11">Hand Gesture Control</text>
+  <text x="77" y="101" fill="#94A3B8" font-size="11"></text>
+  <rect x="669" y="112" width="62" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="700.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Python</text><rect x="740" y="112" width="123" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="801.5" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Computer Vision</text><rect x="872" y="112" width="74" height="21" rx="10" fill="#211B3C" stroke="#A78BFA" stroke-opacity=".5"/><text x="909.0" y="126" text-anchor="middle" fill="#A78BFA" font-size="10">Gestures</text>
+  <text x="18" y="151" fill="#94A3B8" font-size="10"><tspan fill="#22D3EE">★</tspan> 1  ·  updated 4d ago</text>
+  <rect x="232.0" y="165" width="320.0" height="7" rx="3.5" fill="#A78BFA"/><circle cx="232" cy="193" r="4" fill="#A78BFA"/><text x="243" y="197" fill="#94A3B8" font-size="10">Python 100%</text>
+  
+</g></g>
+</svg>
